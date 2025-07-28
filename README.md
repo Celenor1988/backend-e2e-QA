@@ -2,7 +2,7 @@
 Este repositorio contiene un conjunto de pruebas E2E (end-to-end) diseñadas para validar los endpoints del backend del sistema de clientes. Las pruebas fueron desarrolladas utilizando **Postman** y ejecutadas con **Newman**, generando reportes en formato HTML para facilitar el análisis de resultados.
 
 ##  Contenido del repositorio
-
+ 
 Archivo                                                        
 `reporte_final.json`= Colección de pruebas en formato Postman        
 `reporte_final.env.json` = Entorno de variables para la colección Postman 
