@@ -3,13 +3,12 @@ Este repositorio contiene un conjunto de pruebas E2E (end-to-end) diseñadas par
 
 ##  Contenido del repositorio
 
-| Archivo                              | Descripción                                    |
-
-| `reporte_final.json`                 | Colección de pruebas en formato Postman        |
-| `reporte_final.env.json`             | Entorno de variables para la colección Postman |
-| `reporte_backend.html`               | Reporte en formato HTML generado por Newman    |
-| `.gitignore`                         | Archivos y carpetas excluidos del repositorio  |
-| `package.json` / `package-lock.json` | Configuración de dependencias de Node.js       |
+Archivo                                                        
+`reporte_final.json`= Colección de pruebas en formato Postman        
+`reporte_final.env.json` = Entorno de variables para la colección Postman 
+`reporte_backend.html` = Reporte en formato HTML generado por Newman    
+`.gitignore`= Archivos y carpetas excluidos del repositorio  
+`package.json` / `package-lock.json` = Configuración de dependencias de Node.js       
 
 
 ## Tecnologías utilizadas
